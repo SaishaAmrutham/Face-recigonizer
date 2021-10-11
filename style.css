@@ -1,0 +1,26 @@
+h3
+{
+    font-size: 50px;
+    width: 100%;
+    background-color: floralwhite;
+    color: rgb(255, 0, 0);
+}
+body
+{
+    color: rgb(153, 0, 255);
+    background-color: rgb(41, 255, 48);
+}
+.name_of_objects
+{
+    color: mediumpurple;
+}
+.name_of_objects,#result_object_name
+{
+    color: rgb(104, 61, 139)
+}
+#camera
+{
+    border: 2px solid black;
+    width: 350px;
+    height: 350px;
+}
